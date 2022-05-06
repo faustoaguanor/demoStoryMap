@@ -1,0 +1,256 @@
+{
+
+   "storymap":{
+      "language": "es", 
+      "slides":[
+         {
+            "media":{
+               "url":"",
+               "caption":"",
+               "credit":""
+            },
+            "location":{
+               "line":true,
+               "icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+            },
+            "background":{
+               "color":"#121619",
+               "opacity":50,
+               "url":"https://media.tacdn.com/media/attractions-content--1x-1/0b/e2/ad/68.jpg"
+            },
+            "text":{
+               "headline":"<center>Administraciones Zonales de DMQ</center>",
+               "text":"<strong style='color:LightGray'>El Distrito Metropolitano de Quito, está dividido en 8 Administraciones Zonales cuyas funciones son el descentralizar los organismos institucionales, así como también mejorar el sistema de gestión participativa. <br> <br> Cada una es dirigida por un administrador zonal designado por el alcalde, el cual es responsable de ejecutar las competencias de la urbe en su sector. El concepto de Zona Metropolitana se creó con la Ley de Régimen del Distrito Metropolitano y las administraciones zonales se crean por Ordenanzas</strong>"
+            },
+            "date":"",
+            "type":"overview"
+         },
+         {
+            "date":"",
+            "media":{
+               "url":"http://www.quitoinforma.gob.ec/wp-content/uploads/2020/09/EDIFICIO-DE-LA-ZONA-CENTRO-800x445.jpg",
+               "caption":" ",
+               "credit":" "
+            },
+            "location":{
+               "name": "location",
+               "lat": -0.2202607822212894, 
+               "lon":-78.51108154486097,
+               "line":true,
+               "zoom":15,
+               "icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+            },
+            "background":{
+               "color":"#121619",
+               "url":" ",
+               "opacity":50
+            },
+            "text":{
+               "headline":"Administración Zonal Manuela Saenz",
+               "text":"Intervención integral encaminada al mejoramiento de centro la calidad de vida de la población de la Zona Centro, en equilibrio con el entorno natural, físico y social, dentro de las políticas del buen vivir propuestas por el Municipio del Distrito Metropolitano de Quito."
+            }
+         },
+         {
+            "date":"",
+            "media":{
+               "url":"https://3.bp.blogspot.com/-OlR55LAkBIs/VxaCMMwL3OI/AAAAAAAALEI/00j-gHzQQSkus_7aDQ2feYM46NsvQ6NIQCLcB/s640/descarga.jpg",
+               "caption":"",
+               "credit":""
+            },
+            "location":{
+               "name": "location",
+               "lat":  -0.10421346765232187, 
+               "lon":-78.45408793137011, 
+               "line":true,
+               "zoom":15,
+               "icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+            },
+            "background":{
+               "color":"#121619",
+               "opacity":50
+            },
+            "text":{
+               "headline":"Administración Zonal Calderón",
+               "text":"La Administración Zonal Calderón aplica sus programas, planes y proyectos en forma integral, actuando en cada uno de los sectores, a través de la ejecución de proyectos sociales, vialidad, infraestructura, servicios básicos y espacios públicos, alcanzando de esta manera un desarrollo territorial integral, con la organización, capacitación y participación directa de la comunidad, para mejorar la calidad de vida de la población."
+            }
+         },
+         {
+            "date":"",
+            "media":{
+               "url":"http://www.quitoinforma.gob.ec/wp-content/uploads/2019/08/Entrega-de-escrituras-16-agost-2019-11-750x445.jpg",
+               "caption":" ",
+               "credit":" "
+            },
+            "location":{
+               "name": "location",
+               "lat": -0.29562781200295635, 
+               "lon":-78.54880287369727,
+               "line":true, 
+               "zoom":15,
+               "icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+            },
+            "background":{
+               "color":"#121619",
+               "opacity":50,
+               "url":""
+            },
+            "text":{
+               "headline":"Administración Zonal Quitumbe",
+               "text":"Intervención integral encaminada al mejoramiento de la calidad de vida de la población de la Zona Quitumbe, en equilibrio con el entorno natural, físico y social, dentro de las políticas del buen vivir propuestas por el municipio del Distrito Metropolitano de Quito."
+            }
+         },
+         {
+            "date":"",
+            "media":{
+               "url":"https://administracionzonalloschillos.files.wordpress.com/2011/11/azch.jpg?w=632&h=474",
+               "caption":"",
+               "credit":""
+            },
+            "location":{
+               "name": "location",
+               "lat":  -0.312548007133811, 
+               "lon":-78.47195497504292,
+               "line":true,
+               "zoom":15,
+               "icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+            },
+            "background":{
+               "color":"#121619",
+               "opacity":50
+            },
+            "text":{
+               "headline":"Administración Zonal los Chillos",
+               "text":"Una administración con una gestión democrática, de ayuda social, política y construcción de infraestructura básica a una comunidad de mujeres y hombres con identidad, comprometidos con el desarrollo integral del Valle. Promotora de un crecimiento planificado, con orden y respeto de las ordenanzas municipales, proveedora de infraestructura y servicios básicos de calidad para todos y todas; al mismo tiempo impulsora de la vocación turística y productiva en un ambiente seguro y saludable de su entorno natural."
+            }
+         },
+         {
+            "date":"",
+            "media":{
+               "url":"http://www.quitoinforma.gob.ec/wp-content/uploads/2021/04/WhatsApp-Image-2021-04-14-at-09.12.541-800x445.jpeg",
+               "caption":"",
+               "credit":""
+            },
+            "location":{
+               "name": "location",
+               "lat": -0.2143341985176913,
+                "lon": -78.40617871975448,
+                "line":true,
+               "zoom":15,
+               "icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+            },
+            "background":{
+               "color":"#121619",
+               "opacity":50,
+               "url":" "
+            },
+            "text":{
+               "headline":"Administración Zonal Tumbaco",
+               "text":"Garantizar los derechos de los ciudadanos y el acceso a la cultura y al deporte en este objetivo se hallan 21 proyectos en a las áreas de cultura, educación, salud, atención y prevención contra la violencia familiar y medio ambiente."
+            }
+         },
+
+         {
+            "date":"",
+            "media":{
+               "url":"https://1.bp.blogspot.com/-N4DSX1PUp7A/VC8EiDhoBuI/AAAAAAAABNc/48HX3zbYbAY/s1600/La%2BDelicia%2B01.jpg",
+               "caption":"",
+               "credit":""
+            },
+            "location":{
+               "name": "location",
+               "lat": -0.11330314490711474, 
+                "lon": -78.49480322329804,
+                "line":true,
+               "zoom":15,
+               "icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+            },
+            "background":{
+               "color":"#121619",
+               "opacity":50,
+               "url":" "
+            },
+            "text":{
+               "headline":"Administración Zonal La Delicia",
+               "text":"La promoción de la organización social y la participación ciudadana, será el eje de la gestión municipal en la Administración Zonal La Delicia. El acceso a servicios públicos de calidad para la educación y la salud es una de las apuestas de la actual administración municipal, como parte de la construcción de una cultura por la salud y la vida. La recuperación del espacio público como sitio para el encuentro y diálogo comunitario, como espacio para la expresión y difusión de las culturas y los saberes, así como para la construcción de una ciudad solidaria y segura, será un importante referente en esta Administración Zonal."
+            }
+         },
+
+         {
+            "date":"",
+            "media":{
+               "url":"https://mapio.net/images-p/43538610.jpg",
+               "caption":"",
+               "credit":""
+            },
+            "location":{
+               "name": "location",
+               "lat":  -0.24833532511798273, 
+                "lon": -78.52481551787913,
+                "line":true,
+               "zoom":15,
+               "icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+            },
+            "background":{
+               "color":"#121619",
+               "opacity":50,
+               "url":" "
+            },
+            "text":{
+               "headline":"Administración Zonal Eloy Alfaro",
+               "text":"La Administración Zonal Eloy Alfaro, mediante procesos participativos y democráticos, trabaja con la comunidad del sur para integrarla en la planificación de su desarrollo, mediante su presencia y participación en los diferentes asambleas sectoriales, asambleas barriales, asambleas sociales, temáticas y de género, en ejecución de mingas comunitarias, talleres informativos, asambleas, reuniones barriales, firma de convenios para la realización de obras, dotación de infraestructura y recuperación del entorno comunitario."
+            }
+         },
+
+         {
+            "date":"",
+            "media":{
+               "url":"https://www.elcomercio.com/wp-content/uploads/2021/09/zonal-norte.jpg",
+               "caption":"",
+               "credit":""
+            },
+            "location":{
+               "name": "location",
+               "lat":   -0.17156552260688293, 
+                "lon": -78.48467486206094,
+                "line":true,
+               "zoom":15,
+               "icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+            },
+            "background":{
+               "color":"#121619",
+               "opacity":50,
+               "url":" "
+            },
+            "text":{
+               "headline":"Administración Zonal Eugenio Espejo",
+               "text":"Promover una ciudadanía y organización social activa que accede con equidad e inclusión al arte, la cultura, el deporte, la recreación a prácticas y saberes ancestrales, a las tecnologías de la comunicación, entre otros."
+            }
+         },
+
+         {
+            "media":{
+               "url":"https://upload.wikimedia.org/wikipedia/commons/7/72/Administraciones_Zonales_DM_Quito.png",
+               "caption":"",
+               "credit":""
+            },
+            "location":{
+               "line":true,
+               "icon":"http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png"
+            },
+            "background":{
+               "color":"#121619",
+               "opacity":50,
+               "url":"https://colegiodeeconomistas.org.ec/wp-content/uploads/2021/10/city-4618598_1920-980x551.jpg"
+            },
+            "text":{
+               "headline":"<center>Admistraciones Zonales del DMQ</center>",
+               "text":" "
+            },
+            "date":"",
+            "type":"overview" 
+         }
+ 
+      ]
+
+   }
+}
