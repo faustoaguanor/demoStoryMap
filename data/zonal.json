@@ -16,7 +16,8 @@
             "background":{
                "color":"#121619",
                "opacity":50,
-               "url":"https://media.tacdn.com/media/attractions-content--1x-1/0b/e2/ad/68.jpg"
+               "url":"img/fondo.jpg",
+               "credit":"Viator"
             },
             "text":{
                "headline":"<center>Administraciones Zonales de DMQ</center>",
@@ -28,9 +29,9 @@
          {
             "date":"",
             "media":{
-               "url":"https://www.ultimasnoticias.ec/files/article_main/uploads/2018/01/05/5a4f90911ee99.jpeg",
+               "url":"img/centro.jpeg",
                "caption":" ",
-               "credit":" "
+               "credit":"Ultimas Noticias"
             },
             "location":{
                "name": "location",
@@ -53,9 +54,9 @@
          {
             "date":"",
             "media":{
-               "url":"https://3.bp.blogspot.com/-OlR55LAkBIs/VxaCMMwL3OI/AAAAAAAALEI/00j-gHzQQSkus_7aDQ2feYM46NsvQ6NIQCLcB/s640/descarga.jpg",
+               "url":"img/calderon.jpg",
                "caption":"",
-               "credit":""
+               "credit":"Cero Latitud"
             },
             "location":{
                "name": "location",
@@ -77,9 +78,9 @@
          {
             "date":"",
             "media":{
-               "url":"https://quitocultura.com/wp-content/uploads/2022/02/EDtfr_jX4AIf5bg.jpg",
+               "url":"img/quitumbe.jpg",
                "caption":" ",
-               "credit":" "
+               "credit":"Quito Cultura"
             },
             "location":{
                "name": "location",
@@ -102,9 +103,9 @@
          {
             "date":"",
             "media":{
-               "url":"https://administracionzonalloschillos.files.wordpress.com/2011/11/azch.jpg?w=632&h=474",
+               "url":"img/chillos.jpg",
                "caption":"",
-               "credit":""
+               "credit":"Administración Zonal Los Chillos"
             },
             "location":{
                "name": "location",
@@ -126,9 +127,9 @@
          {
             "date":"",
             "media":{
-               "url":"https://quitocultura.com/wp-content/uploads/2022/02/IMG_4030-1-scaled.jpg",
+               "url":"img/tumbaco.jpg",
                "caption":"",
-               "credit":""
+               "credit":"Quito Cultura"
             },
             "location":{
                "name": "location",
@@ -152,9 +153,9 @@
          {
             "date":"",
             "media":{
-               "url":"https://1.bp.blogspot.com/-N4DSX1PUp7A/VC8EiDhoBuI/AAAAAAAABNc/48HX3zbYbAY/s1600/La%2BDelicia%2B01.jpg",
+               "url":"img/delicia.jpg",
                "caption":"",
-               "credit":""
+               "credit":"Quito Cultura"
             },
             "location":{
                "name": "location",
@@ -178,9 +179,9 @@
          {
             "date":"",
             "media":{
-               "url":"https://mapio.net/images-p/43538610.jpg",
+               "url":"img/alfaro.jpg",
                "caption":"",
-               "credit":""
+               "credit":"Quito Cultura"
             },
             "location":{
                "name": "location",
@@ -204,9 +205,9 @@
          {
             "date":"",
             "media":{
-               "url":"https://www.elcomercio.com/wp-content/uploads/2021/09/zonal-norte.jpg",
+               "url":"img/norte.jpg",
                "caption":"",
-               "credit":""
+               "credit":"Quito Cultura"
             },
             "location":{
                "name": "location",
@@ -229,9 +230,9 @@
 
          {
             "media":{
-               "url":"https://upload.wikimedia.org/wikipedia/commons/7/72/Administraciones_Zonales_DM_Quito.png",
+               "url":"img/dmc.jpg",
                "caption":"",
-               "credit":""
+               "credit":"StreetView Google"
             },
             "location":{
                "line":true,
@@ -240,11 +241,12 @@
             "background":{
                "color":"#121619",
                "opacity":50,
-               "url":"https://colegiodeeconomistas.org.ec/wp-content/uploads/2021/10/city-4618598_1920-980x551.jpg"
+               "url":"img/fondo_fin.jpg",
+               "credit":"Colegio de Economistas"
             },
             "text":{
-               "headline":"<center>Admistraciones Zonales del DMQ</center>",
-               "text":" "
+               "headline":"<center>Dirección Metropolitana de Catastro</center>",
+               "text":"Fin del Demo Story Map realizado con librería StoryMapJS"
             },
             "date":"",
             "type":"overview" 
